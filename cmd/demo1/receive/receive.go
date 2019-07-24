@@ -1,4 +1,4 @@
-package main
+package receive
 
 import (
 	"github.com/dstockto/rabbit-go/helper"
